@@ -1,0 +1,7 @@
+THIS IS NETFLIX PUSH REQUEST
+
+s='nitin'
+if s==s[::1]:
+PRINT('PALINDROME')
+ELSE:
+PRINT('NO')
